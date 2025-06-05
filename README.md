@@ -74,3 +74,6 @@ Triggers alerts, summaries, escalations
 💾 Memory
 Data is stored in memory_store.db using aiosqlite.
 📽 Demo Video
+### 📽 Demo Video
+
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1ufe17WUVq1baUyNxmmr_ISrKK-tNlGYL/view?usp=sharing)
